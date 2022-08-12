@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanchanaIyer
 - 👀 I’m interested in coding and software devlopment
-- 🌱 I’m currently learning data structures and algorithms and I am currently working on a group project about Pong
+- 🌱 I’m currently learning data structures and algorithms and I am also working on a group project about Pong
 
 -How to reach me:
 email: kanchanaiyer02@gmail.com
